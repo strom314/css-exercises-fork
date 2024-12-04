@@ -1,0 +1,21 @@
+.pink-background {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+
+.big-text {
+    font-size: 24px;
+}
+
+#big-text {
+    font-size: 48px;
+    color: blue;
+}
+
+#bald-with-green-bg {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
